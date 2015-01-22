@@ -1,0 +1,6 @@
+######## ignore compiled classes
+*.class
+target/
+bin/
+.DS_Store
+lib/

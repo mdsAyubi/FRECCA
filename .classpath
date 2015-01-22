@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/edu.mit.jwi_2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/jsimlib.jar" sourcepath="src/jsl"/>
+	<classpathentry kind="lib" path="lib/jwnl-1.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/arq-extra.jar"/>
+	<classpathentry kind="lib" path="lib/arq.jar"/>
+	<classpathentry kind="lib" path="lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="lib/iri.jar"/>
+	<classpathentry kind="lib" path="lib/jena.jar"/>
+	<classpathentry kind="lib" path="lib/jenatest.jar"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/stax-api-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/wstx-asl-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/db-5.3.15.jar"/>
+	<classpathentry kind="lib" path="lib/hgbdbje-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/hgbdbnative-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/hgdb-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/hgdbp2p-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/je-5.0.34.jar"/>
+	<classpathentry kind="lib" path="lib/mjson.jar"/>
+	<classpathentry kind="lib" path="lib/smack-3.2.0-beta2.jar"/>
+	<classpathentry kind="lib" path="lib/smackx-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hgdbwordnet.jar"/>
+	<classpathentry kind="lib" path="lib/db.jar"/>
+	<classpathentry kind="lib" path="lib/maxent-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/opennlp-tools-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/jaws-bin.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-1.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/tika-app-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
